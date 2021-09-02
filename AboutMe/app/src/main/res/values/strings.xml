@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Emmanuel</string>
+    <string name="star_image">star</string>
+    <string name="bio">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo purus sed neque rutrum, ac facilisis augue cursus. Nam pulvinar odio in tortor aliquam dictum. Phasellus eget leo sed ante blandit rhoncus. Sed lacinia sollicitudin tortor, nec ultricies felis molestie quis. Maecenas imperdiet dignissim libero, non efficitur sapien cursus et. Cras volutpat est porta purus aliquam, id porttitor lorem vestibulum. Integer tempus dapibus pharetra. Cras malesuada purus in laoreet laoreet. Pellentesque vitae dui vitae tortor accumsan ullamcorper ut vel quam. Donec non elementum quam.
+\n\n
+Cras laoreet semper ipsum in aliquet. Ut nisi risus, cursus vel nisl nec, dapibus cursus augue. Sed id nulla vitae dui porttitor tincidunt. Maecenas lobortis accumsan elit, in vestibulum arcu vehicula nec. Donec laoreet purus eu consectetur condimentum. Aliquam congue, mi sed hendrerit mattis, sapien orci molestie sem, at congue dui nibh sit amet nulla. Curabitur placerat, ligula semper volutpat porta, magna nunc faucibus nisl, et ornare est dolor in tellus. Fusce sodales sem nec nisi luctus, vel condimentum lacus vehicula. Praesent malesuada augue magna, auctor pretium ligula tincidunt vel. Pellentesque auctor pharetra enim. Nulla facilisi. Integer leo lorem, ornare id congue vitae, vulputate eget justo. Nulla eu nisl lacinia, tincidunt eros eget, cursus arcu.
+\n\n
+Curabitur finibus nisl maximus, condimentum elit non, tristique velit. Etiam vel interdum ante, quis bibendum enim. Duis at est viverra, laoreet lectus sit amet, pellentesque turpis. In eget luctus nunc. Donec dictum odio quam, in malesuada sem vulputate quis. Suspendisse in pharetra augue, id blandit leo. Ut faucibus eget ligula non dapibus. Nulla id dui ipsum. Sed eu euismod nisl, sed dignissim elit.
+\n\n
+Cras elit tellus, consectetur et dui id, tempor feugiat mauris. Vestibulum eu accumsan ligula, non pellentesque justo. Morbi id sapien ut erat cursus tempus. Etiam scelerisque, tellus quis volutpat sagittis, tortor urna congue ipsum, sed hendrerit erat massa et magna. Sed aliquet tempus sodales. In vestibulum felis quam, in posuere enim posuere eget. In non convallis purus.
+\n\n
+Etiam vulputate a elit id eleifend. Aliquam blandit facilisis condimentum. Pellentesque convallis nisi ante, vel rutrum sapien scelerisque quis. Sed nec ante id lacus mattis gravida quis eget risus. Mauris porta metus eget rutrum vehicula. Pellentesque ac suscipit nunc. Vivamus eget ipsum sit amet velit dapibus rhoncus. Maecenas diam nunc, pharetra non eros sit amet, viverra iaculis dui.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
